@@ -6,6 +6,6 @@ pytesseract
 spacy
 python-dotenv
 python-magic
-
+gunicorn
 libmagic
 phonenumbers
