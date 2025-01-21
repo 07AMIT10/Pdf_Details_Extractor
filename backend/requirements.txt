@@ -1,0 +1,10 @@
+flask
+flask-cors
+pdfplumber
+pdf2image
+pytesseract
+spacy
+python-dotenv
+python-magic-bin
+libmagic
+phonenumbers
