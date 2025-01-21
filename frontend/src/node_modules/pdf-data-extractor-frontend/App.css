@@ -1,0 +1,52 @@
+/* frontend/src/App.css */
+.App {
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    padding: 2rem;
+    color: white;
+  }
+  
+  main {
+    flex: 1;
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .form-container {
+    border: 1px solid #ccc;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .upload-section {
+    margin: 2rem 0;
+  }
+  
+  .form-fields {
+    display: grid;
+    gap: 1rem;
+    text-align: left;
+  }
+  
+  label {
+    display: block;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+  }
+  
+  .error {
+    color: #dc3545;
+    margin: 1rem 0;
+  }
