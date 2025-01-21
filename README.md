@@ -1,9 +1,9 @@
-```markdown
+
 # PDF Information Extraction System
 
 A full-stack solution for automatically extracting contact details (Name, Phone, Address) from PDF documents and populating web form fields.
 
-![System Architecture](https://via.placeholder.com/800x400.png?text=PDF+Processing+Flow)
+![System Architecture](https://imgur.com/a/LHyZvPE)
 
 ## Problem Statement
 Many organizations manually extract contact details from PDF documents like resumes/invoices. This system automates:
