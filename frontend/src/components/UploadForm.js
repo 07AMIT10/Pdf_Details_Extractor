@@ -25,7 +25,7 @@ const UploadForm = () => {
     try {
       setLoading(true);
       setError('');
-      const response = await axios.post('http://localhost:5000/extract', formData, {
+      const response = await axios.post('https://pdf-details-extractor.onrender.com/extract', formData, {
         headers: { 'Content-Type': 'multipart/form-data' }
       });
 
