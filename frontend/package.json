@@ -16,6 +16,7 @@
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
+        "fix-permissions":"chmod +x node_modules/.bin/*", 
         "test": "react-scripts test",
         "eject": "react-scripts eject"
     },
