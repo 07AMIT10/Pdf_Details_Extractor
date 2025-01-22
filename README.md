@@ -155,6 +155,6 @@ npm start
 ---
 
 
-**Live Demo**: [https://pdf-extractor.vercel.app](https://pdf-extractor.vercel.app)
+**Live Demo**: [https://pdf-details-extractor.vercel.app/](https://pdf-details-extractor.vercel.app/)
 ```
 
