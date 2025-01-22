@@ -5,6 +5,7 @@ pdf2image
 pytesseract
 spacy
 python-dotenv
-python-magic-bin
+python-magic
+gunicorn
 libmagic
 phonenumbers
